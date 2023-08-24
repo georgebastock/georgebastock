@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋 ⠀</h1>
-<h3 align="center">Im George, A fullstack developer from England and these are some random projects!</h3>
+<h1 align="center">Hey there 👋 ⠀</h1>
+<h3 align="center">Im George, A fullstack developer from the UK and these are some random projects!</h3>
 
 - 🌱 I’m currently learning **Umbraco 9, CSS animations, JS Frameworks**
 
